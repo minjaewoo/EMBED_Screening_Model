@@ -1,3 +1,8 @@
+
+## Author
+
+InChan Hwang(ihwang@students.kennesaw.edu)
+
 # Impact of Multi-source Data Augmentation on Performance of Convolutional Neural Networks for Abnormality Classification in Mammography
 
 CBIS-DDSM dataset is widespread in the deep learning community especially for those who develop deep learning models classifying and detecting breast cancer tumors. What happens when those old film based CBIS-DDSM/DDSM and full digital mammograms are mixed and trained to avoid data scarcity issue?  
@@ -59,11 +64,6 @@ Your computer system is different from mine. You will definitely run into proble
 ## Help
 
 Contact : InChan Hwang(ihwang@students.kennesaw.edu)
-
-## Authors
-
-InChan Hwang(ihwang@students.kennesaw.edu), Hari Trivedi, Beatrice Brown-Mulry, Linglin Zhang, Vineela Nalla, Alina Barnett, Judy Gichoya, Aimilia Gastounioti, Laleh Seyyed-Kalantari, Imon Barnerjee, MinJae Woo*
-
 
 
 ## Version History
